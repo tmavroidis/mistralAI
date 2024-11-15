@@ -1,0 +1,31 @@
+HSORTA    61A         X
+*
+*
+*
+I C 313 332EQC                    CUPO (1-20)
+IAC 333 337EQC                        (21-25)
+IAC 338 347EQC                    JOB#
+IAC 448 467EQC                    TXT3 (1-20)
+IAC 468 487EQC                        (21-40)
+IAC 488 497EQC                        (41-50)
+*
+FNC 183 192                       ASEQ
+FNP   8  11                       PH#
+FNC 338 347                       JOB#
+FNC 313 337                       CUPO
+FNP  12  15                       YRSH
+FNP  16  18                       ORD#
+*
+*
+I C 448 467EQC                    TXT3 (1-20)
+IAC 468 487EQC                        (21-40)
+IAC 488 497EQC                        (41-50)
+*
+FNC 183 192                       ASEQ
+FNP   8  11                       PH#
+FNC 338 347                       JOB#
+FNC 313 337                       CUPO
+FNP  12  15                       YRSH
+FNP  16  18                       ORD#
+*
+*
