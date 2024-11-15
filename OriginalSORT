@@ -1,0 +1,114 @@
+HSORTA    61A         X
+     *
+     *
+     *
+     I C 313 332EQC                    CUPO (1-20)
+     IAC 333 337EQC                        (21-25)
+     IAC 338 347EQC                    JOB#
+     IAC 448 467EQC                    TXT3 (1-20)
+     IAC 468 487EQC                        (21-40)
+     IAC 488 497EQC                        (41-50)
+     IAD  12  12GEC4                   20th century (decade within YRSH)
+     *
+     FNC 183 192                       ASEQ
+     FNP   8  11                       PH#
+     FNC 338 347                       JOB#
+     FNC 313 337                       CUPO
+     FFC         0                     20th century
+     FNP  12  15                       YRSH
+     FNP  16  18                       ORD#
+     *
+     *
+     I C 313 332EQC                    CUPO (1-20)
+     IAC 333 337EQC                        (21-25)
+     IAC 338 347EQC                    JOB#
+     IAC 448 467EQC                    TXT3 (1-20)
+     IAC 468 487EQC                        (21-40)
+     IAC 488 497EQC                        (41-50)
+     *
+     FNC 183 192                       ASEQ
+     FNP   8  11                       PH#
+     FNC 338 347                       JOB#
+     FNC 313 337                       CUPO
+     FFC         1                     21st century
+     FNP  12  15                       YRSH
+     FNP  16  18                       ORD#
+     *
+     *
+     *
+     I C 313 332EQC                    CUPO (1-20)
+     IAC 333 337EQC                        (21-25)
+     IAC 338 347EQC                    JOB#
+     IAD  12  12GEC4                   20th century (decade within YRSH)
+     *
+     FNC 183 192                       ASEQ
+     FNP   8  11                       PH#
+     FNC 338 347                       JOB#
+     FNC 313 337                       CUPO
+     FFC         2                     20th century
+     FNP  12  15                       YRSH
+     FNP  16  18                       ORD#
+     *
+     *
+     I C 313 332EQC                    CUPO (1-20)
+     IAC 333 337EQC                        (21-25)
+     IAC 338 347EQC                    JOB#
+     *
+     FNC 183 192                       ASEQ
+     FNP   8  11                       PH#
+     FNC 338 347                       JOB#
+     FNC 313 337                       CUPO
+     FFC         3                     21st century
+     FNP  12  15                       YRSH
+     FNP  16  18                       ORD#
+     *
+     *
+     *
+     I C 448 467EQC                    TXT3((1-20)
+     IAC 468 487EQC                        (21-40)
+     IAC 488 497EQC                        (41-50)
+     IAD  12  12GEC4                   20th century (decade within YRSH)
+     *
+     FNC 183 192                       ASEQ
+     FNP   8  11                       PH#
+     FNC 338 347                       JOB#
+     FNC 313 337                       CUPO
+     FFC         4                     20th century
+     FNP  12  15                       YRSH
+     FNP  16  18                       ORD#
+     *
+     *
+     I C 448 467EQC                    TXT3((1-20)
+     IAC 468 487EQC                        (21-40)
+     IAC 488 497EQC                        (41-50)
+     *
+     FNC 183 192                       ASEQ
+     FNP   8  11                       PH#
+     FNC 338 347                       JOB#
+     FNC 313 337                       CUPO
+     FFC         5                     21st century
+     FNP  12  15                       YRSH
+     FNP  16  18                       ORD#
+     *
+     *
+     *
+     I D  12  12GEC4                   20th century (decade within YRSH)
+     *
+     FNC 183 192                       ASEQ
+     FNP   8  11                       PH#
+     FNC 338 347                       JOB#
+     FNC 313 337                       CUPO
+     FFC         6                     20th century
+     FNP  12  15                       YRSH
+     FNP  16  18                       ORD#
+     *
+     *
+     I
+     *
+     FNC 183 192                       ASEQ
+     FNP   8  11                       PH#
+     FNC 338 347                       JOB#
+     FNC 313 337                       CUPO
+     FFC         7                     21st century
+     FNP  12  15                       YRSH
+     FNP  16  18                       ORD#                          
