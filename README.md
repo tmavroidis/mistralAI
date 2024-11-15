@@ -517,3 +517,5 @@ I found this useful but would still require an in-depth knowledge of both the ap
 It is more useful as a tool to check my thought on how to handle a problem.   
 
 I replaced the sort leaving out the last duplicated block and presto, IT WORKS!
+
+FYI: in case the sort fails with an error make sure you specify OPTION(*SECLVL) in the FMTDTA command to get a list of the errors 
